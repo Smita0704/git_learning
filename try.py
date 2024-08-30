@@ -12,6 +12,9 @@ if(1):
 if(1):
     print("checking new branch option ")
 
+if(1):
+    print("checking for second branch creation")
+
 if(0):
 
     down = {("Jan","grinder"): 1, ("Feb", "horiDrill"): 2, ("Mar", "borer"): 1,
