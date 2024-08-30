@@ -9,6 +9,9 @@ if(1):
     print("making changes to check if it commits in git")
     print("check")
 
+if(1):
+    print("checking new branch option ")
+
 if(0):
 
     down = {("Jan","grinder"): 1, ("Feb", "horiDrill"): 2, ("Mar", "borer"): 1,
