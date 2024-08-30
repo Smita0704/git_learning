@@ -15,6 +15,10 @@ if(1):
 if(1):
     print("checking for second branch creation")
 
+
+if(1):
+    print("trying to commit without creating a branch")
+
 if(0):
 
     down = {("Jan","grinder"): 1, ("Feb", "horiDrill"): 2, ("Mar", "borer"): 1,
